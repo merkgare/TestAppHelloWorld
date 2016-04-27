@@ -15,6 +15,7 @@ namespace TestAppHelloWorld
         public Form1()
         {
             InitializeComponent();
+            textBox1.Text += " 2";
         }
     }
 }
